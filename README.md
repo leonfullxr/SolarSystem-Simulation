@@ -1,5 +1,5 @@
-# Planet-Simulation
-A Planet Simulation made with Python, it has collision and gravitational pull simulation with asteroids.
+# SolarSystem-Simulation
+A Solar System Simulation made with Python, it has collision and gravitational pull simulation with asteroids.
 
 I would like to further improve it by adding textures, better animations, and a better gravity simulation. I tried adding textures in C++ using OpenGL, but the collision implementation was much more complicated.
 
