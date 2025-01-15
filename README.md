@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="solar_system.png" width="650" heigh="550" title="solar system">
+</p>
+
 # SolarSystem-Simulation
 A Solar System Simulation made with Python, it has collision and gravitational pull simulation with asteroids.
 
